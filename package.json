@@ -1,0 +1,13 @@
+{
+  "name": "inscolor",
+  "version": "1.0.0",
+  "description": "Inspect color on terminal. ",
+  "author": "hata6502",
+  "license": "MIT",
+  "bin": {
+    "inscolor": "src/index.mjs"
+  },
+  "dependencies": {
+    "color": "^4.2.3"
+  }
+}
